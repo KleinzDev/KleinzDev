@@ -6,7 +6,7 @@
 - **ExpressJS**\
 I use ExpressJS to build REST APIs for most of my web applications, it serves as the backend for those.
 - **VueJS**\
-Most of my personal projects use VueJS as the frontend which interface with a REST API backend. I use it to build a SPA (single page application) with client-side routing, which allows for a fluid user experience for all.
+Most of my personal projects use VueJS as the frontend, with the frontend interfacing with a REST API backend. I use it to build a SPA (single page application) with client-side routing, which allows for a fluid user experience for all.
 - **AdonisJS**\
 A full-stack NodeJS web framework, "Laravel for NodeJS". I don't really use this for personal projects, although I do have experience with it, thanks to projects I've worked on with other people
 - **PHP**\
