@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://c.tenor.com/SVuIVt9pKa8AAAAC/kaguya-sama-love-is-war-anime.gif" alt="ye" />
+</p>
+
 ## Hi!
 
 🇵🇭 | I'm Kleinz, I'm a 14 year old high school student, currently in my 2nd year. I'm a full-stack web developer. I have a fascination with creating things which people find useful or appreciate.
