@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c.tenor.com/SVuIVt9pKa8AAAAC/kaguya-sama-love-is-war-anime.gif" alt="ye" />
+  <img src="https://c.tenor.com/SVuIVt9pKa8AAAAC/kaguya-sama-love-is-war-anime.gif" alt="ye" height="200" />
 </p>
 
 ## Hi!
