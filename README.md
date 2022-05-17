@@ -11,6 +11,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
+![Kleinz's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleinzDev&count_private=true)
+
 ## Hi!
 
 🇵🇭 | I'm Kleinz, I'm a 14 year old high school student, currently in my 2nd year. I'm a full-stack web developer. I have a fascination with creating things which people find useful or appreciate.
