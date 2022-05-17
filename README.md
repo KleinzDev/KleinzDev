@@ -1,5 +1,7 @@
 <p align="center">
   <img src="https://c.tenor.com/SVuIVt9pKa8AAAAC/kaguya-sama-love-is-war-anime.gif" alt="ye" height="200" />
+  ### Hi! 👋
+  I'm Kleinz, I'm a 14 year old high school student, currently in my 2nd year. I'm a full-stack web developer. I have a fascination with creating things which people find useful or appreciate.
 </p>
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -13,10 +15,6 @@
 
 ![Kleinz's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleinzDev&count_private=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KleinzDev&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-## Hi!
-
-🇵🇭 | I'm Kleinz, I'm a 14 year old high school student, currently in my 2nd year. I'm a full-stack web developer. I have a fascination with creating things which people find useful or appreciate.
 
 ### What I work with
 - **ExpressJS**\
