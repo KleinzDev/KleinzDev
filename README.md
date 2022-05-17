@@ -1,8 +1,9 @@
-<p align="center">
+<div align="center">
   <img src="https://c.tenor.com/SVuIVt9pKa8AAAAC/kaguya-sama-love-is-war-anime.gif" alt="ye" height="200" />
   ### Hi! 👋
   I'm Kleinz, I'm a 14 year old high school student, currently in my 2nd year. I'm a full-stack web developer. I have a fascination with creating things which people find useful or appreciate.
-</p>
+  <br>
+</div>
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
