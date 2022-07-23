@@ -1,7 +1,9 @@
 <div align="center">
   
   ### Hi! 👋
-  I'm Kleinz, I'm a 14 year old high school student, currently approaching my 3rd year. I'm a full-stack web developer with 3 years of experience
+  I'm Kleinz, I'm a 14 year old high school student, currently approaching my 3rd year. 
+  
+  I'm a full-stack web developer with 3 years of experience
   
   <br>
 </div>
