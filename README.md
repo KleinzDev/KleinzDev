@@ -15,9 +15,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-![Kleinz's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleinzDev&count_private=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KleinzDev&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 ### What I work with
 - **ExpressJS**\
 I use ExpressJS to build REST APIs for most of my web applications, it serves as the backend for those.
@@ -35,4 +32,5 @@ SQL server, which I use in most of my personal projects.
 An in-memory store, I use it in most projects for session storage and as a cache layer to provide excellent scalability.
 
 ### Contact
-You can reach me through Discord, Kleinz#3636.
+For any inquiries or if you just want to talk, you can reach me through Discord, tag is Kleinz#3636.
+Or, you can reach me through email, kleinzmail@gmail.com.
