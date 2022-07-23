@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://c.tenor.com/SVuIVt9pKa8AAAAC/kaguya-sama-love-is-war-anime.gif" alt="ye" height="200" />
-  
   ### Hi! 👋
   I'm Kleinz, I'm a 14 year old high school student, currently in my 2nd year. I'm a full-stack web developer. I have a fascination with creating things which people find useful or appreciate.
   
@@ -34,12 +32,6 @@ SQL server, self explanatory. As PHP was my first programming language, I used M
 SQL server, which I use in most of my personal projects.
 - **Redis**\
 An in-memory store, I use it in most projects for session storage and as a cache layer to provide excellent scalability.
-
-### My links
-
-[Personal site](https://kleinz.me)
-
-[Anilist](https://anilist.co/user/Kleinz/)
 
 ### Contact
 You can reach me through Discord, Kleinz#3636.
